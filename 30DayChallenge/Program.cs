@@ -6,7 +6,7 @@ namespace _30DayChallenge
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            new Day1().SingleNumber(new int[] { 4, 1, 2, 1, 2 });
         }
     }
 }
